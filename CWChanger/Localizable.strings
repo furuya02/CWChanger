@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  CWChanger
+
+  Created by hirauchi.shinichi on 2016/04/25.
+  Copyright © 2016年 SAPPOROWORKS. All rights reserved.
+*/
+
+
+"CWEdit" = "編集";
+"CWDelete" = "削除";
+"CWAdd" = "追加";
+
+"CWMenuHome" = "ホーム";
+"CWMenuSetting" = "設定";
+"CWMenuLogout" = "ログアウト";
+"CWMenuDebug" = "デバッグ";
+
+"CWConfirmation" = "変更してよろしいですか?";
+"CWOk" = "OK";
+"CWCancel" = "キャンセル";
+"CWCSaveButton" = "保存する";
+
+"CWNameOnly" = "名前のみ";
+
+"CWAgreementName" = "契約名を指定してください";
+"CWEmailPlaceholder" = "メールアドレスを入力してください";
+"CWPasswordPlaceholder" = "パスワードを入力してください";
+"CWLoginButton" = "ログイン";
+
+
+
+
+
+
+
+
